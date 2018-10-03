@@ -1,2 +1,2 @@
 
-Vue Windows Sample
+Vue Windows Sample App
